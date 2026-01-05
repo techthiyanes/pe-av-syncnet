@@ -206,7 +206,7 @@ uv run train /path/to/videos --fast_dev_run
 
 The SyncNet model consists of:
 
-1. **Pretrained Encoder**: PeAudioVideoModel from HuggingFace
+1. **Pretrained Encoder**: Meta's [PeAudioVideoModel](https://huggingface.co/collections/facebook/perception-encoder-audio-visual) on HuggingFace
    - Processes audio and video separately
    - Extracts rich multimodal embeddings
    - Gradient checkpointing enabled for memory efficiency
