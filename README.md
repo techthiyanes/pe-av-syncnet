@@ -1,4 +1,4 @@
-# SyncNet: Audio-Visual Synchronization
+# Perception Encoder Audio-Visual (PE-AV) SyncNet: Audio-Visual Synchronization
 
 A PyTorch Lightning implementation of SyncNet for detecting audio-visual synchronization in videos. This project trains deep learning models to determine whether audio and video streams are temporally aligned.
 
